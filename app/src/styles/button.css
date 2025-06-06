@@ -5,6 +5,7 @@ button{
     background: #3b82f6;
     color: #ffffff;
     border: none;
+    cursor: pointer;
 }
 
 #cancel-btn{
