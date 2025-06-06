@@ -4,7 +4,7 @@ A responsive, React-based web application that allows users to select two existi
 
 ## 🚀 Live Demo
 
-[Click here to view the app]([https://your-github-username.github.io/list-creation-app](https://assessment-nxtwave-git-main-arthis-projects.vercel.app/?_vercel_share=b4KwuK9DQQCxs1AzWUyH9LED2Y7V5ooI))
+https://your-github-username.github.io/list-creation-app](https://assessment-nxtwave-git-main-arthis-projects.vercel.app/?_vercel_share=b4KwuK9DQQCxs1AzWUyH9LED2Y7V5ooI
 
 ---
 
