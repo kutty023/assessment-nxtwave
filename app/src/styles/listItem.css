@@ -1,0 +1,39 @@
+.list-item{
+    background: #ffffff;
+    border-radius: 10px;
+    border: 1px solid rgb(178, 188, 201);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.list-item-name{
+    font-size: 0.8rem;
+}
+
+.list-item-description{
+    font-size: 0.75rem;
+    color: #2f2f2fd0;
+}
+
+.item-arrows{
+    display: flex;
+    align-items: center;
+}
+
+.arrow-buttons {
+    color: black;
+    background: transparent;
+    border: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+#point-left-side{
+    margin-right: auto;
+}
+
+#point-right-side{
+    margin-left: auto;
+}

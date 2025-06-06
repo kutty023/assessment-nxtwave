@@ -1,0 +1,46 @@
+.list-box{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0rem 1rem;
+    height: 70vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: #eff6ff;
+    border-radius: 10px;
+    width: 18rem;
+}
+
+.list-box::-webkit-scrollbar {
+  width: 10px;
+}
+
+.list-box::-webkit-scrollbar-thumb {
+  background-color: rgb(175, 175, 175); 
+}
+
+.list-title{
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    background: none;
+}
+
+.list-title>input{
+    width: 13px;
+    height: auto;
+    cursor: pointer;
+}
+
+.list-number{
+    background: none;
+    font-size: 0.8rem;
+    align-self: center;
+}
+
+.list-items-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    background: none;
+}
